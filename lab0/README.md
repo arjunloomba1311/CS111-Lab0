@@ -8,6 +8,10 @@ One sentence description
 
 ## Building
 
+```bash
+make
+```
+
 Explain how to build your kernel module
 
 ## Running
